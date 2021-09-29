@@ -1,1 +1,4 @@
-This is a new blog post
+---
+title: "mahima"
+date: 2000-09-11
+---
